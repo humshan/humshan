@@ -2,8 +2,6 @@
 
 ### **中国海洋大学--就读本科生**
 
-喜欢学习新鲜知识，欢迎交流！
-
  <img align="left" alt="GIF" src="./image/大头照.jpg" width="160" height="100%" />
 
 ### **个人介绍**
@@ -38,6 +36,7 @@ Github 活跃
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humshan&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=humshan&layout=compact&langs_count=6)
 
-总结
+**未来畅想**
 ---------
-<img align="left" alt="GIF" src="./image/.jpg" width="400" height="100%" />
+<img align="left" alt="GIF" src="./image/朋友留影.jpg" width="400" height="100%" />
+在以后的学习生涯中，希望能更多<br />的学习到开发方面的经验，为以后<br />工作提前打好坚实基础！
