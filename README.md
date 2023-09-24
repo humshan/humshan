@@ -8,30 +8,36 @@
 
 ### **个人介绍**
 
-不善言谈但待人真诚，学习成绩良好，在班内担任班长一职，对待事务认真负责，希望与大家多多交流！
+不善言谈但待人真诚，学习成绩良好，在班内\
+担任班长一职，对待事务认真负责，希望与大家\
+多多交流！
 
 ### **技术栈:**
 
-<img height="20" src="./images/vue.png">
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+<img align="left" height="50" src="./image/C++.png">
+<img align="left" height="50" src="./image/java.png">
+<img align="left" height="50" src="./image/python.png">
 
-### 开源项目
+<br><br />
+### **班级合照**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
+ <img align="left" alt="GIF" src="./image/班级留影.jpg" width="400" height="100%" />
+<br><br />
+<br><br />
+<br><br />
+<br><br />
+<br><br />
+<br><br />
+<br><br />
 
-### Github 活跃
+Github 活跃
 
 [![](https://activity-graph.herokuapp.com/graph?username=humshan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=humshan&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humshan&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=humshan&layout=compact&langs_count=6)
+
+总结
+---------
+<img align="left" alt="GIF" src="./image/.jpg" width="400" height="100%" />
