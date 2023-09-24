@@ -1,10 +1,10 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+### **中国海洋大学--就读本科生**
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+目前正值大三，喜欢学习新鲜知识，欢迎交流！
 
-### **社交主页：**
+### **个人介绍**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
@@ -29,10 +29,10 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
 <br><br><br>
 
-### Github 活跃度
+### Github 活跃
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=humshan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=humshan&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humshan&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=humshan&layout=compact&langs_count=6)
