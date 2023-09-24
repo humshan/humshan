@@ -1,17 +1,18 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:humshan?theme=rule34">
 
 ### **中国海洋大学--就读本科生**
 
 喜欢学习新鲜知识，欢迎交流！
 
+ <img align="left" alt="GIF" src="./image/大头照.jpg" width="160" height="100%" />
+
 ### **个人介绍**
 
- <img align="right" alt="GIF" src="image/大头照.gif" width="430" height="100%" />
-
+不善言谈但待人真诚，学习成绩良好，在班内担任班长一职，对待事务认真负责，希望与大家多多交流！
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<img height="20" src="./images/vue.png">
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
