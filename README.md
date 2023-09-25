@@ -8,10 +8,9 @@
   </div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/humshan/humshan/blob/main/image/scvs/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/humshan/humshan/blob/main/image/scvs/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/humshan/humshan/blob/main/image/scvs/github-contribution-grid-snake-dark.svg" />
   </picture>
- 
 </div>
 
 
@@ -53,6 +52,6 @@ Github 活跃
 
 **未来畅想**
 ---------
-<img align="left" alt="GIF" src="./image/朋友留影.jpg" width="400" height="100%" />
+<img align="left" alt="GIF" src="./image/朋友留影.jpg" width="357" height="100%" />
 <img src="https://github.com/humshan/humshan/blob/main/image/coding.gif"></br>
 在以后的学习生涯中，希望能更多<br />的学习到开发方面的经验，为以后<br />工作提前打好坚实基础！
